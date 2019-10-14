@@ -1,0 +1,15 @@
+
+* {
+  font-family: times;
+}
+
+body {
+  background: #fff;
+}
+
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+  background-image: url('../img/hr.png');
+}
